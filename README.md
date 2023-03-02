@@ -9,8 +9,5 @@
   <p align="center">
   <img  alt="" src="https://img.shields.io/badge/Flutter-00BB2D?style=for-the-badge&logo=flutter&logoColor=white">
   <img  alt="" src="https://img.shields.io/badge/Dart-00BB2D?style=for-the-badge&logo=dart&logoColor=white">
-  <img  alt="" src="https://img.shields.io/badge/Node.js-00BB2D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img  alt="" src="https://img.shields.io/badge/NPM-00BB2D?style=for-the-badge&logo=npm&logoColor=white">
-  
 </p>
 
